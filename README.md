@@ -12,7 +12,7 @@ Explore the features and functionalities of the ContactApp Manager in this descr
 
 ### Step 1: Download the Project
 
-Download the ContactApp Manager by clicking on the following link: [Download ContactAppManager.zip](link_to_your_zip_file)
+Download the ContactApp Manager by clicking on the following link: [Download ContactAppManager.zip]([link_to_your_zip_file](https://github.com/douaeelh2/ContactApp.git))
 
 ### Step 2: Extract the ZIP File
 
