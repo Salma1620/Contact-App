@@ -1,4 +1,4 @@
-# ContactApp Manager
+# ContactApp Manager Mobile Application
 
 The ContactApp Manager is designed to provide a comprehensive solution for contact management. It offers essential features, including contact addition, editing, deletion, search functionality, and detailed contact displays.
 
